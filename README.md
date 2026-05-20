@@ -1,6 +1,6 @@
 # Order Management Dashboard
 
-A responsive Order Management Dashboard built using React + Vite.
+A responsive Order Management Dashboard built using React and Vite.
 
 ## Features
 
@@ -9,8 +9,8 @@ A responsive Order Management Dashboard built using React + Vite.
 * Order Summary Section
 * Order Details Section
 * Order Breakdown Table
-* Customer Details
-* Timeline Activity Section
+* Customer Details Section
+* Timeline Activity Tracking
 * Reusable Components
 * Dynamic Data Rendering using Mock Data
 
@@ -19,7 +19,6 @@ A responsive Order Management Dashboard built using React + Vite.
 ## Tech Stack
 
 * React
-* Vite
 * JavaScript
 * CSS3
 * Remix Icons
@@ -28,25 +27,18 @@ A responsive Order Management Dashboard built using React + Vite.
 
 ## Folder Structure
 
+```bash
 src/
-
 ├── components/
-
-│ ├── common/
-
-│ ├── layout/
-
-│ └── order/
-
+│   ├── common/
+│   ├── layout/
+│   └── order/
 ├── data/
-
 ├── pages/
-
 ├── services/
-
 ├── styles/
-
 └── App.jsx
+```
 
 ---
 
@@ -61,34 +53,46 @@ src/
 
 ## Setup Instructions
 
-1. Clone the repository
-
-```bash
-git clone url
-```
-
-2. Install dependencies
-
 ```bash
 npm install
-```
-
-3. Start development server
-
-```bash
 npm run dev
 ```
 
 ---
 
-## Deployed
-Live -> https://the-order-dashboard.vercel.app/
-<img width="337" height="532" alt="image" src="https://github.com/user-attachments/assets/c565800d-43a3-4755-af53-37fadc221b69" />
-<img width="1000" height="690" alt="image" src="https://github.com/user-attachments/assets/fa6144ce-bad9-40b0-be8f-7df586557c9a" />
+## Live Demo
+
+https://the-order-dashboard.vercel.app/
 
 ---
+
+## 📸 Screenshots
+
+### Dashboard Preview
+
+<img width="1000" alt="Dashboard Screenshot" src="https://github.com/user-attachments/assets/fa6144ce-bad9-40b0-be8f-7df586557c9a" />
+
+### Mobile Responsive View
+
+<img width="337" alt="Mobile View" src="https://github.com/user-attachments/assets/c565800d-43a3-4755-af53-37fadc221b69" />
+
+---
+
+## Estimated APIs Required
+
+1. Order Summary API
+2. Sidebar Order Information API
+3. Order Details API
+4. Order Breakdown API
+5. Customer Details API
+6. Timeline API
+
+Total Estimated APIs: 6
+
+---
+
 ## Notes
 
-* Mock API structure is used for simulating backend data.
-* Dashboard is fully component-based and reusable.
-* Responsive sidebar behavior implemented for smaller devices.
+* Mock API structure used for simulating backend data.
+* Component-based architecture for better scalability.
+* Responsive sidebar implemented for smaller devices.

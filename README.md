@@ -1,6 +1,6 @@
 # Order Management Dashboard
 
-A responsive Order Management Dashboard built using React and Vite.
+A responsive Order Management Dashboard built using React.
 
 ## Features
 

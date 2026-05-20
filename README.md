@@ -81,6 +81,12 @@ npm run dev
 
 ---
 
+## Deployed
+Live -> https://the-order-dashboard.vercel.app/
+<img width="537" height="732" alt="image" src="https://github.com/user-attachments/assets/c565800d-43a3-4755-af53-37fadc221b69" />
+<img width="1241" height="722" alt="image" src="https://github.com/user-attachments/assets/fa6144ce-bad9-40b0-be8f-7df586557c9a" />
+
+---
 ## Notes
 
 * Mock API structure is used for simulating backend data.

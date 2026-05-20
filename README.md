@@ -68,13 +68,17 @@ https://the-order-dashboard.vercel.app/
 
 ## 📸 Screenshots
 
+<div align="center">
+
 ### Dashboard Preview
 
-<img width="1000" alt="Dashboard Screenshot" src="https://github.com/user-attachments/assets/fa6144ce-bad9-40b0-be8f-7df586557c9a" />
+<img width="850" alt="Dashboard Screenshot" src="https://github.com/user-attachments/assets/fa6144ce-bad9-40b0-be8f-7df586557c9a" />
 
 ### Mobile Responsive View
 
-<img width="337" alt="Mobile View" src="https://github.com/user-attachments/assets/c565800d-43a3-4755-af53-37fadc221b69" />
+<img width="260" alt="Mobile View" src="https://github.com/user-attachments/assets/c565800d-43a3-4755-af53-37fadc221b69" />
+
+</div>
 
 ---
 

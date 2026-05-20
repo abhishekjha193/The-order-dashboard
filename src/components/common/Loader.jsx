@@ -4,6 +4,8 @@ function Loader() {
 
       <div className="loader"></div>
 
+      <p>Loading the dashboard ...</p>
+
     </div>
   );
 }

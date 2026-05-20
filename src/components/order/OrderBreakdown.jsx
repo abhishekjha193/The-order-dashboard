@@ -6,7 +6,7 @@ function OrderBreakdown() {
   return (
     <div className="dashboard-card">
       <div className="card-header">
-        <h2>Order Breakdown</h2>
+        <h2>Order Breakdown Detail</h2>
 
         <div className="card-icon orange-icon">
           <i className="ri-box-3-line"></i>

@@ -37,7 +37,11 @@ function OrderSummary() {
 
         <button>Status</button>
 
-        <button>Action +</button>
+        <button>Action+</button>
+
+        <button> &lt; </button>
+
+        <button> &gt; </button>
 
       </div>
 

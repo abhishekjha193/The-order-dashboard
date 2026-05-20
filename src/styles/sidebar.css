@@ -26,27 +26,27 @@
 
 .sidebar-icon i {
   font-size: 20px;
-  color: #f28c28;
+  color: #0e1750;
   transition: 0.3s;
 }
 
 .sidebar-icon:hover {
-  background: linear-gradient(135deg, #fff7ed, #ffedd5);
+  background: linear-gradient(135deg, #fff7ed, #0dd9e0);
   transform: translateY(-3px);
-  box-shadow: 0 8px 18px rgba(242, 140, 40, 0.15);
+  box-shadow: 0 8px 18px rgba(40, 191, 242, 0.15);
 }
 
 .sidebar-icon:hover i {
-  color: #ea580c;
+  color: #000000;
 }
 
 .sidebar-icon.active {
-  background: linear-gradient(135deg, #fff7ed, #ffedd5);
-  box-shadow: 0 8px 18px rgba(242, 140, 40, 0.15);
+  background: linear-gradient(135deg, #fff7ed, #0dd9e0);
+  box-shadow: 0 8px 18px rgba(20, 183, 216, 0.15);
 }
 
 .sidebar-icon.active i {
-  color: #ea580c;
+  color: #000000;
 }
 
 @media (max-width: 992px) {

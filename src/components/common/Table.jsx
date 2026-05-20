@@ -8,9 +8,9 @@ function Table({ columns, data }) {
 
           <tr>
 
-            {columns.map((column, index) => (
+            {columns.map((column) => (
 
-              <th key={index}>
+              <th key={column.key}>
                 {column.label}
               </th>
 
@@ -26,10 +26,15 @@ function Table({ columns, data }) {
 
             <tr key={index}>
 
-              {columns.map((column, idx) => (
+              {columns.map((column) => (
 
-                <td key={idx}>
-                  {row[column.key]}
+                <td key={column.key}>
+
+                  {column.render
+                    ? column.render(row[column.key], row)
+                    : row[column.key]
+                  }
+
                 </td>
 
               ))}

@@ -1,6 +1,6 @@
 # Order Management Dashboard
 
-A responsive Order Management Dashboard built using React.
+A responsive Order Management Dashboard built using React + Vite.
 
 ## Features
 
@@ -9,8 +9,7 @@ A responsive Order Management Dashboard built using React.
 * Order Summary Section
 * Order Details Section
 * Order Breakdown Table
-* Customer Details Section
-* Timeline Activity Tracking
+* Customer Details
 * Reusable Components
 * Dynamic Data Rendering using Mock Data
 
@@ -19,6 +18,7 @@ A responsive Order Management Dashboard built using React.
 ## Tech Stack
 
 * React
+* Vite
 * JavaScript
 * CSS3
 * Remix Icons
@@ -27,18 +27,25 @@ A responsive Order Management Dashboard built using React.
 
 ## Folder Structure
 
-```bash
 src/
+
 ├── components/
-│   ├── common/
-│   ├── layout/
-│   └── order/
+
+│ ├── common/
+
+│ ├── layout/
+
+│ └── order/
+
 ├── data/
+
 ├── pages/
+
 ├── services/
+
 ├── styles/
+
 └── App.jsx
-```
 
 ---
 
@@ -53,52 +60,28 @@ src/
 
 ## Setup Instructions
 
+1. Clone the repository
+
+```bash
+git clone url
+```
+
+2. Install dependencies
+
 ```bash
 npm install
+```
+
+3. Start development server
+
+```bash
 npm run dev
 ```
 
 ---
 
-## Estimated APIs Required
-
-1. Order Summary API
-2. Sidebar Order Information API
-3. Order Details API
-4. Order Breakdown API
-5. Customer Details API
-6. Timeline API
-
-Total Estimated APIs: 6
-
----
-
-## Live Demo
-
-https://the-order-dashboard.vercel.app/
-
----
-
-## 📸 Screenshots
-
-<div align="center">
-
-### Dashboard Preview
-
-<img width="850" alt="Dashboard Screenshot" src="https://github.com/user-attachments/assets/fa6144ce-bad9-40b0-be8f-7df586557c9a" />
-
-<br/>
-
-### Mobile Responsive View
-
-<img width="260" alt="Mobile View" src="https://github.com/user-attachments/assets/c565800d-43a3-4755-af53-37fadc221b69" />
-
-</div>
-
----
-
 ## Notes
 
-* Mock API structure used for simulating backend data.
-* Component-based architecture for better scalability.
-* Responsive sidebar implemented for smaller devices.
+* Mock API structure is used for simulating backend data.
+* Dashboard is fully component-based and reusable.
+* Responsive sidebar behavior implemented for smaller devices.

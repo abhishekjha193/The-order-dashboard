@@ -2,7 +2,6 @@ import {
   orderDetails,
   breakdownData,
   customerDetails,
-  timelineData,
   leftPanelData,
 } from "../data/mockData";
 
@@ -16,7 +15,6 @@ export const getDashboardData = () => {
         orderDetails,
         breakdownData,
         customerDetails,
-        timelineData,
         leftPanelData,
       });
 

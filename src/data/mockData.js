@@ -86,26 +86,34 @@ export const customerDetails = [
   },
 ];
 
-export const timelineData = [
+export const sidebarItems = [
   {
-    title: "Order Created",
-    description:
-      "Production order has been created successfully.",
-    time: "31 Jan 2026 - 10:45 AM",
+    icon: "ri-stack-line",
+    active: true,
   },
 
   {
-    title: "Inventory Checked",
-    description:
-      "Raw material stock validated successfully.",
-    time: "31 Jan 2026 - 11:30 AM",
+    icon: "ri-shopping-bag-line",
   },
 
   {
-    title: "Production Started",
-    description:
-      "Manufacturing process moved to production stage.",
-    time: "31 Jan 2026 - 01:15 PM",
+    icon: "ri-truck-line",
+  },
+
+  {
+    icon: "ri-store-2-line",
+  },
+
+  {
+    icon: "ri-home-office-line",
+  },
+
+  {
+    icon: "ri-building-line",
+  },
+
+  {
+    icon: "ri-links-line",
   },
 ];
 
@@ -203,3 +211,61 @@ export const orderTabs = [
 
   "Timeline",
 ];
+
+export const leftTimelineData = [
+
+  {
+    id: "PO-1120",
+    title: "Production Order Created",
+    date: "31th, Jan 2026",
+    time: "11:10 am",
+  },
+
+  {
+    id: "SO-1754",
+    title: "Sales Order Created",
+    date: "31th, Jan 2026",
+    time: "11:00 am",
+  },
+
+  {
+    id: "STO-1250",
+    title: "Stock Transfer Order Created",
+    date: "31th, Jan 2026",
+    time: "10:40 am",
+  },
+
+];
+
+export const activityTimelineData = [
+  {
+    id: 1,
+    status: "In progress",
+    code: "PO-1120",
+    title: "Production Order Created",
+    date: "31th, Jan 2026",
+    time: "11:10 am",
+  },
+
+  {
+    id: 2,
+    status: "In progress",
+    code: "SO-1754",
+    title: "Sales Order Created",
+    date: "31th, Jan 2026",
+    time: "11:00 am",
+  },
+
+  {
+    id: 3,
+    status: "In progress",
+    code: "STO-1250",
+    title: "Stock Transfer Order Created",
+    date: "31th, Jan 2026",
+    time: "10:40 am",
+  },
+];
+
+
+
+

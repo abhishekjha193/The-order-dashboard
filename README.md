@@ -112,6 +112,7 @@ https://the-order-dashboard.vercel.app/
 
 ## Mobile view
 <img src="https://github.com/user-attachments/assets/1487c10a-737e-459c-bb5c-988b251d543e" width="350" />
+
 ---
 
 # Notes

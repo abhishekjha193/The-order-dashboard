@@ -106,11 +106,11 @@ https://the-order-dashboard.vercel.app/
 
 # Screenshot
 
-Desktop view
+## Desktop view
 <img src="https://github.com/user-attachments/assets/1914c42b-e6e6-46c5-b137-b084e4c38231" width="900" />
 
 
-Mobile view
+## Mobile view
 <img src="https://github.com/user-attachments/assets/1487c10a-737e-459c-bb5c-988b251d543e" width="350" />
 ---
 

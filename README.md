@@ -14,7 +14,6 @@ This project is based on the provided OMS (Order Management System) reference sc
 - Order Details Section
 - Order Breakdown Table
 - Customer Details Section
-- Activity Timeline Panel
 - Reusable Components
 - Dynamic Data Rendering using Mock Data
 - Mobile Responsive Design

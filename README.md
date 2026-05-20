@@ -60,26 +60,6 @@ npm run dev
 
 ---
 
-## Live Demo
-
-https://the-order-dashboard.vercel.app/
-
----
-
-## 📸 Screenshots
-
-<div align="center">
-
-<img width="420" alt="Dashboard Screenshot" src="https://github.com/user-attachments/assets/fa6144ce-bad9-40b0-be8f-7df586557c9a" />
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-<img width="140" alt="Mobile View" src="https://github.com/user-attachments/assets/c565800d-43a3-4755-af53-37fadc221b69" />
-
-</div>
-
----
-
 ## Estimated APIs Required
 
 1. Order Summary API
@@ -90,6 +70,30 @@ https://the-order-dashboard.vercel.app/
 6. Timeline API
 
 Total Estimated APIs: 6
+
+---
+
+## Live Demo
+
+https://the-order-dashboard.vercel.app/
+
+---
+
+## 📸 Screenshots
+
+<div align="center">
+
+### Dashboard Preview
+
+<img width="850" alt="Dashboard Screenshot" src="https://github.com/user-attachments/assets/fa6144ce-bad9-40b0-be8f-7df586557c9a" />
+
+<br/>
+
+### Mobile Responsive View
+
+<img width="260" alt="Mobile View" src="https://github.com/user-attachments/assets/c565800d-43a3-4755-af53-37fadc221b69" />
+
+</div>
 
 ---
 
